@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This privacy policy applies to the **Υπολογισμός BMI* app (herein referred to as "Application") for mobile devices that was created by **[ΤΟ ΟΝΟΜΑ ΣΟΥ]** as a Free service. 
+This privacy policy applies to the **Υπολογισμός BMI* app (herein referred to as "Application") for mobile devices that was created by **LabrosLa** as a Free service. 
 
 ## 1. Information Collection and Use
 The Application does not collect or harvest any personal information or data from its users. 
